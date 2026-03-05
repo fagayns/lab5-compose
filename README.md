@@ -1,4 +1,5 @@
 Lab 5 — Docker Compose Application
+
 This project demonstrates a simple multi-service application using Docker Compose. It includes a backend service along with supporting services like a database and cache.
 The application exposes several endpoints to verify that all services are working correctly.
 ## Run 
@@ -21,3 +22,4 @@ Project Structure:
 ├── src/
 │   └── application source code
 └── README.md
+
